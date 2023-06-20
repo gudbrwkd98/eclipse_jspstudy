@@ -10,6 +10,8 @@
 	out.println("<h1>" + str + "</h1>");//웹에 출력(태그)
 	
 %>
+<hr>
+str 의 값 출력 = <%=str %>
 <head>
 <meta charset="UTF-8">
 <title>첫번째 예제</title>
